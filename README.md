@@ -2,6 +2,8 @@
 
 This program was developed as part of the requirement for week 7 of MIT xPro Web Development With JavaScript course.
 
+![Pac Men App Running](./src/images/pac-men.gif)
+
 ## Description
 
 Features Pac Men creation and animation. Many Pac Men can be created on the screen by clicking the "Add PacMan" button.
